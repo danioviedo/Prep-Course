@@ -1,0 +1,4 @@
+FOR: Es un blucle que se compone de 3 partes: declaramos una variable, inicializamos la condicion y iteramos
+&&: Es un operador logico " Y " si uno o ambos da falso el operador da falso
+||: Es un operador logico "O " si uno de los dos es true devuelve true
+! : Es un operador logico  "NOT" devuelve lo opuesto del verdadero resultado
